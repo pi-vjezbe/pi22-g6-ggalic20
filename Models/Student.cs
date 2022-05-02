@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Evaluation_Manager.NewFolder1
+namespace Evaluation_Manager.Models
 {
     public class Student : Person
     {
